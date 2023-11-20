@@ -1,5 +1,6 @@
 package com.example.algorithmsanddatastructures;
 
+import com.example.algorithmsanddatastructures.Queue.StaticArrQueue.StaticArrQueue;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
