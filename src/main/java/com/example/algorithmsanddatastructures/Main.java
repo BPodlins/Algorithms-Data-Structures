@@ -4,6 +4,5 @@ import com.example.algorithmsanddatastructures.Queue.StaticArrQueue.StaticArrQue
 
 public class Main {
     public static void main(String[] args) {
-
     }
 }
