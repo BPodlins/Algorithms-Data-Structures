@@ -1,4 +1,4 @@
-package com.example.algorithmsanddatastructures.UnionFind;
+package com.example.algorithmsanddatastructures.DataStructures.UnionFind;
 
 public class UnionFind {
 

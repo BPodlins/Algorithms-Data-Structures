@@ -1,4 +1,4 @@
-package com.example.algorithmsanddatastructures.DynamicArray;
+package com.example.algorithmsanddatastructures.DataStructures.DynamicArray;
 
 import java.util.Iterator;
 

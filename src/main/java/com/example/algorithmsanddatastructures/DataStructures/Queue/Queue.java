@@ -1,4 +1,4 @@
-package com.example.algorithmsanddatastructures.Queue;
+package com.example.algorithmsanddatastructures.DataStructures.Queue;
 
 import java.util.Iterator;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package com.example.algorithmsanddatastructures.HashTable;
+package com.example.algorithmsanddatastructures.DataStructures.HashTable;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.example.algorithmsanddatastructures.List;
+package com.example.algorithmsanddatastructures.DataStructures.List;
 
 import java.util.Iterator;
 

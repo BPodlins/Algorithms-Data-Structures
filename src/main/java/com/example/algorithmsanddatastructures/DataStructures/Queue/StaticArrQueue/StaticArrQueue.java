@@ -1,4 +1,4 @@
-package com.example.algorithmsanddatastructures.Queue.StaticArrQueue;
+package com.example.algorithmsanddatastructures.DataStructures.Queue.StaticArrQueue;
 
 public class StaticArrQueue {
 

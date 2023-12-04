@@ -1,4 +1,4 @@
-package com.example.algorithmsanddatastructures.BinaryTree.BinarySearchTree;
+package com.example.algorithmsanddatastructures.DataStructures.BinaryTree.BinarySearchTree;
 
 import java.util.Iterator;
 

@@ -1,4 +1,4 @@
-package com.example.algorithmsanddatastructures.Queue.PriorityQueue;
+package com.example.algorithmsanddatastructures.DataStructures.Queue.PriorityQueue;
 
 import java.util.*;
 
