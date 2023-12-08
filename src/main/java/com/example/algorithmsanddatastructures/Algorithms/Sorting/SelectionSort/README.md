@@ -1,0 +1,2 @@
+# ***Selection Sort***
+Selection sort is a sorting algorithm that sorts the number by keeping the index of the smallest number, than we swap the first number with the smallest number. After that we have the smallest number (of the current iteration, because after the first swap we don't need to check the first index, due to the fact that it already has the smallest number, so we compare i + 1) already at the beginning, than the algorithms goes like that until array length - 2.

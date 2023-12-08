@@ -1,8 +1,8 @@
-package com.example.algorithmsanddatastructures.Algorithms.Sorting;
+package com.example.algorithmsanddatastructures.Algorithms.Sorting.InsertionSort;
 
 public class InsertionSort {
     public int[] sortAsc(int[] arr){
-        for(int i = 1; i < arr.length; i++){ // i represents the "card" that you want to insert
+        for(int i = 1; i <= arr.length; i++){ // i represents the "card" that you want to insert
             int key = arr[i]; // key represents the number that you are sorting
 
             int j = i - 1; // j represents the number of positions that are already sorted
@@ -19,7 +19,7 @@ public class InsertionSort {
     }
 
     public int[] sortDesc(int[] arr){
-        for (int i = 1; i < arr.length; i++) {
+        for (int i = 1; i <= arr.length; i++) {
             int key = arr[i];
 
             int j = i - 1;
