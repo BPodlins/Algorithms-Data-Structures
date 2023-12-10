@@ -1,1 +1,2 @@
 # ***Merge Sort***
+Merge sort, a divide-and-conquer algorithm, efficiently sorts by dividing, recursively sorting, and merging sublists. Picture sorting a deck: divide it, sort each part, then merge for a sorted deck. Stable and consistent, it excels with large datasets for reliable performance.
