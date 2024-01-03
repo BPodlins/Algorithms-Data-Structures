@@ -1,0 +1,3 @@
+# ***Bucket sort***
+
+Bucket Sort is a sorting algorithm that was invented to work on numbers that belongs to [0,1). It distributes elements of an array into a number of buckets. Each bucket is then sorted individually, either using a different sorting algorithm or recursively applying the bucket sort algorithm. Finally, the sorted elements from all buckets are concatenated to obtain the sorted array.
