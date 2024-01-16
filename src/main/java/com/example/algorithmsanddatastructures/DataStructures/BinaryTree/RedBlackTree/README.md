@@ -5,7 +5,7 @@ It is named after the coloring scheme applied to each node, which can be either 
 preventing degeneration into a skewed structure and providing efficient search, insertion, and deletion operations.
 
 ## Key properties
--   Node Color: Each node in the tree is colored either red or black.
+-    Node Color: Each node in the tree is colored either red or black.
 -    Root and Leaves: The root and leaves (null or sentinel nodes) are always black.
 -    Red Nodes: Red nodes cannot have red children. In other words, there are no consecutive red nodes along any path.
 -    Depth Property: For each node, any simple path from this node to any of its descendant leaves contains the same number of black nodes. This property ensures that the tree remains balanced.
