@@ -1,0 +1,3 @@
+# ***Linear search***
+
+Linear search, a straightforward search algorithm, iterates through a list sequentially, comparing each element with the target value until a match is found or the end of the list is reached. It's simple to implement and suitable for small datasets. However, its linear time complexity makes it less efficient for larger datasets, especially when compared to algorithms like binary search.

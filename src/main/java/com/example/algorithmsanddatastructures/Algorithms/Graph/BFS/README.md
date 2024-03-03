@@ -1,0 +1,4 @@
+# ***Breadth-First Search (BFS)*** 
+
+BFS is a versatile graph traversal algorithm used to systematically explore nodes and edges of a graph. It starts at a chosen node and explores all of its neighboring nodes at the present depth level before moving on to the next depth level. BFS employs a queue data structure to maintain the order of exploration, ensuring that nodes are visited in a level-wise manner.
+It is particularly useful for finding the shortest path between two nodes in an unweighted graph and for solving problems in graph theory, such as connected components and bipartite graph detection. Its time complexity is proportional to the number of nodes and edges in the graph, making it O(V + E)

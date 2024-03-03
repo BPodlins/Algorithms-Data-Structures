@@ -1,0 +1,4 @@
+# ***Interpolation search***
+
+Interpolation search is an efficient search algorithm that improves upon binary search, particularly for uniformly distributed datasets. Instead of dividing the search space into halves, interpolation search estimates the position of the target value based on its value and the range of elements in the array. This estimation guides the search towards the target value more quickly, resulting in a faster search process, especially for large datasets. However, it requires the dataset to be sorted, and its performance can degrade for non-uniformly distributed datasets.
+Best case O(log(log(n))), worst case O(n). The only difference between interpolation search and binary search is the method of where we "shoot", in binary search it is the middle, and in interpolation search it is a probe, that is calculated as __lowEnd + ( ( (highEnd - lowEnd) * (item - data[lowEnd]) ) / ( (data[highEnd] - data[lowEnd]) ) )__

@@ -1,0 +1,4 @@
+# ***Depth-First Search (DFS)***
+
+Depth-First Search (DFS) is a graph traversal algorithm that systematically explores the vertices and edges of a graph. Starting from a chosen node, DFS explores as deeply as possible along each branch before backtracking. It does this by visiting the first adjacent node of the current vertex, and then recursively exploring deeper until it reaches a leaf node. Once it reaches a dead end, it backtracks to the nearest unexplored node and continues the process until all nodes are visited.
+By itself it is not really useful, but it really shines when it comes to graph/algorithmic problems.
