@@ -30,8 +30,6 @@ public class DepthFirstAlgorithm {
                 count += dfs(edge.to, visited, graph);
             }
         }
-
         return count;
     }
-
 }
