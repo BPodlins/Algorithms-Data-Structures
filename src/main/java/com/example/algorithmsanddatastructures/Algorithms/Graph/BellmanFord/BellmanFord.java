@@ -1,3 +1,5 @@
+package com.example.algorithmsanddatastructures.Algorithms.Graph.BellmanFord;
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,8 +1,10 @@
-Rozkład prawdopodobieństwa zmiennej losowej skokowej X przedstawia tabela:
+# ***Algorithms & Data Structures***
 
+**This repository serves as a guide (also a training :) )  to algorithms and data structures. It contains information about implemented structures, code and thought behind implementing it, so if someone is looking for revision or to learn, it is there. Each implementation has its own README with explanation with condence**
 
-| Xi | -2   | 0    | 2   | 6   |
-|----|------|------|-----|-----|
-| Pi | 0,15 | 0,35 | 0,3 | 0,2 |
+## Where to find those algorithms and data structures!!!
+***src/main -> java -> com/example/algorithmsanddatastructures -> ...***
 
-Wyznacz wartość oczekiwaną E(x), wariancję D^2(x) i prawdopodobieństwo P(X > - 1), P(0 <= X <= 2)
+### TO DO:
+-   GUI to select data structures with guides
+-   Animations to each Algorithm and Data Structure
